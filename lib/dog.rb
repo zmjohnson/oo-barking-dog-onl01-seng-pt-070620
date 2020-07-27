@@ -5,7 +5,7 @@ class Dog
   end 
 
   def name
-    Fido
+    @name
   end 
   
 end 
